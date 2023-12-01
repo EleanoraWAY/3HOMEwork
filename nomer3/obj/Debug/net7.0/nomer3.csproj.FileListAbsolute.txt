@@ -1,0 +1,14 @@
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.AssemblyInfoInputs.cache
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.AssemblyInfo.cs
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.csproj.CoreCompileInputs.cache
+C:\homeworknumber3\nomer3\bin\Debug\net7.0\nomer3.exe
+C:\homeworknumber3\nomer3\bin\Debug\net7.0\nomer3.deps.json
+C:\homeworknumber3\nomer3\bin\Debug\net7.0\nomer3.runtimeconfig.json
+C:\homeworknumber3\nomer3\bin\Debug\net7.0\nomer3.dll
+C:\homeworknumber3\nomer3\bin\Debug\net7.0\nomer3.pdb
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.dll
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\refint\nomer3.dll
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.pdb
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\nomer3.genruntimeconfig.cache
+C:\homeworknumber3\nomer3\obj\Debug\net7.0\ref\nomer3.dll
